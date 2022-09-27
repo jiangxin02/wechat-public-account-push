@@ -60,14 +60,14 @@ const USER_CONFIG = {
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔
    */
-  USERS: ["oRDXL59B_k7Td2xZCTwMKhSF-eyQ"],
+  USERS: ['oRDXL59B_k7Td2xZCTwMKhSF-eyQ'],
     {
       // 想要发送的人的名字
       name: '老婆大人',
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: '蒋鑫',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '',
+      useTemplateId: 'rnVH-taqqEz_S4X9e1SdDJIAU83whrJ-XZYi6mu-wzE',
       // 所在省份
       province: '重庆',
       // 所在城市
